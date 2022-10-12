@@ -1,4 +1,4 @@
-for x in range(0,101):
+for x in range(101):
     if (x%15 == 0):
         print("FizzBuzz")
         continue
